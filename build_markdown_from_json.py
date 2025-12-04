@@ -25,8 +25,8 @@ import time
 import requests
 
 DEFAULT_PRIMARY = "#1f6feb"
-DEFAULT_BG = "#0d1117"
-DEFAULT_CARD_BG = "#161b22"
+DEFAULT_BG = "#fff"
+DEFAULT_CARD_BG = "#eee"
 DEFAULT_TEXT = "#e6edf3"
 DEFAULT_MUTED = "#8b949e"
 
